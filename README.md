@@ -1,4 +1,4 @@
-# Oficina GitHub - versao do branch corrigida
+# Oficina GitHub - versao do branch corrigida - teste de proteção da main
 
 Site pessoal criado na Oficina de GitHub da Semana de Informática DCOM 2026.
 
